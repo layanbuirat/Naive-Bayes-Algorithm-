@@ -1051,8 +1051,8 @@ This learning module is released under the MIT License. Feel free to use, modify
 ## 📬 Contact
 
 For questions, suggestions, or feedback:
-- GitHub Issues: [Repository Link]
-- Email: learning@naivebayes.edu
+- GitHub Issues: [https://github.com/layanbuirat/Naive-Bayes-Algorithm-]
+- Email: mlayan774@gmail.com 
 
 ---
 
