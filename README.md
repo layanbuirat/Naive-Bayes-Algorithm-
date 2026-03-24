@@ -1,6 +1,3 @@
-# README.md
-
-```markdown
 # Naive Bayes Algorithm
 
 ## 📌 Overview
